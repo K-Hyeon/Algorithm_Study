@@ -6,24 +6,24 @@
 - [BAEKJOON10773_제로](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON10773_%EC%A0%9C%EB%A1%9C.ipynb)
 - [BAEKJOON10809_알파벳 찾기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON10809_%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.ipynb)
 - [BAEKJOON10930_SHA-256](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON10930_SHA-256.ipynb)
-- [BAEKJOON11286_절댓값 힙]
-- [BAEKJOON11724_연결 요소의 개수]
-- [BAEKJOON11866_요세푸스 문제0]
-- [BAEKJOON1233_주사위]
-- [BAEKJOON1260_DFS와 BFS]
-- [BAEKJOON1335_트럭]
-- [BAEKJOON1374_강의실]
-- [BAEKJOON17298_오큰수]
-- [BAEKJOON1874_스택]
-- [BAEKJOON1874_스택수열]
-- [BAEKJOON1920_수찾기]
-- [BAEKJOON1966_프린터큐]
-- [BAEKJOON20040_사이클 게임]
-- [BAEKJOON2014_소수의 곱]
-- [BAEKJOON2346_풍선터뜨리기]
-- [BAEKJOON2696_중앙값 구하기]
-- [BAEKJOON2798_블랙잭]
-- [BAEKJOON2920_음계]
-- [BAEKJOON4195_친구네트워크]
-- [BAEKJOON5397_키로거]
-- [BAEKJOON7662_이중 우선순위 큐]
+- [BAEKJOON11286_절댓값 힙](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON11286_%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99.ipynb)
+- [BAEKJOON11724_연결 요소의 개수](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.ipynb)
+- [BAEKJOON11866_요세푸스 문제0](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON11866_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C0.ipynb)
+- [BAEKJOON1233_주사위](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1233_%EC%A3%BC%EC%82%AC%EC%9C%84.ipynb)
+- [BAEKJOON1260_DFS와 BFS](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1260_DFS%EC%99%80%20BFS.ipynb)
+- [BAEKJOON1335_트럭](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1335_%ED%8A%B8%EB%9F%AD.ipynb)
+- [BAEKJOON1374_강의실](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1374_%EA%B0%95%EC%9D%98%EC%8B%A4.ipynb)
+- [BAEKJOON17298_오큰수](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON17298_%EC%98%A4%ED%81%B0%EC%88%98.ipynb)
+- [BAEKJOON1874_스택](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1874_%EC%8A%A4%ED%83%9D.ipynb)
+- [BAEKJOON1874_스택수열](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.ipynb)
+- [BAEKJOON1920_수찾기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1920_%EC%88%98%EC%B0%BE%EA%B8%B0.ipynb)
+- [BAEKJOON1966_프린터큐](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.ipynb)
+- [BAEKJOON20040_사이클 게임](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON20040_%EC%82%AC%EC%9D%B4%ED%81%B4%20%EA%B2%8C%EC%9E%84.ipynb)
+- [BAEKJOON2014_소수의 곱](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON2014_%EC%86%8C%EC%88%98%EC%9D%98%20%EA%B3%B1.ipynb)
+- [BAEKJOON2346_풍선터뜨리기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON2346_%ED%92%8D%EC%84%A0%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.ipynb)
+- [BAEKJOON2696_중앙값 구하기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON2696_%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.ipynb)
+- [BAEKJOON2798_블랙잭](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON2798_%EB%B8%94%EB%9E%99%EC%9E%AD.ipynb)
+- [BAEKJOON2920_음계](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON2920_%EC%9D%8C%EA%B3%84.ipynb)
+- [BAEKJOON4195_친구네트워크](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.ipynb)
+- [BAEKJOON5397_키로거](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON5397_%ED%82%A4%EB%A1%9C%EA%B1%B0.ipynb)
+- [BAEKJOON7662_이중 우선순위 큐](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/BAEKJOON7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.ipynb)
