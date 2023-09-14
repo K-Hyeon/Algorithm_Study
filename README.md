@@ -55,3 +55,4 @@
 - [BAEKJOON2751_수 정렬하기2](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON2751_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.ipynb)
 - [BAEKJOON7490_0 만들기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON7490_0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [BAEKJOON9251_LCS](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON9251_LCS.ipynb)
+- [BAEKJOON1012_유기농배추]https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.ipynb
