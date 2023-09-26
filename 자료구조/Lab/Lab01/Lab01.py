@@ -1,7 +1,3 @@
-"""
-This module contains the ADT for Lab01
-"""
-
 from math import sqrt, pi, pow
 class Functions:
     def getFactorial(slef, n):
