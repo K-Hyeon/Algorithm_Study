@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "multiplyValues",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter3/quiz1.sol": "quiz5"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter3/quiz1.sol": {
+			"keccak256": "0x7640b37ef789b87e3c789ba8850a2f053562f2b19c43756522879eb56701d655",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://6bb8b70a79f55fb7d2598caa86918011f6d8ef9bd65b00d8185a3d9e14770759",
+				"dweb:/ipfs/QmdEKMpHBHGumpyGRNwxztHNKQHPyimBeQCbPoqKrDvcqS"
+			]
+		}
+	},
+	"version": 1
+}

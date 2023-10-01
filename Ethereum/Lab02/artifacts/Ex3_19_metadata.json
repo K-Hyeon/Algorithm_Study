@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "funExt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "outPutPri",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter3/Ex3_19.sol": "Ex3_19"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter3/Ex3_19.sol": {
+			"keccak256": "0x8bbbfeee58e813c539bf60d02928aae90e2aa6324d796d6a4eecd8f7ed4023f5",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://61f577af93c189b0dfd09b0fa36ad45c295c971ef17e28624fc317a304945496",
+				"dweb:/ipfs/QmXPD3Sr7Wk4soQyiUitjZPXw8ao5dC5owczi5mGLKchW1"
+			]
+		}
+	},
+	"version": 1
+}

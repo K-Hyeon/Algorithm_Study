@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "str",
+						"type": "string"
+					}
+				],
+				"name": "myFun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter3/quiz7.sol": "quiz7"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter3/quiz7.sol": {
+			"keccak256": "0x58740a8374c3c81b4cf64cce67c764c1b78f3985e9020c9e8f2c7d0f89ceb188",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e8bacc980d250d058f25080c67f7c8d2269e3b35dfa54e106e97fef77dc00f60",
+				"dweb:/ipfs/QmZpwRivBMpmhxjpDiubFLAaqUjnND3DSk8WAL9vtgBcLK"
+			]
+		}
+	},
+	"version": 1
+}

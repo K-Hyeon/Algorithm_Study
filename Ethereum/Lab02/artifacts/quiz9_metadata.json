@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "calculateSum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter3/quiz9.sol": "quiz9"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter3/quiz9.sol": {
+			"keccak256": "0xf9cb48ab990c06ef885df77f8b7b495b2e5d4e0edd95d110aceb321d43026729",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://eab08c52c80b7ccdcae7f004a107fcd5f99a59eb8201bf95dd8def89979d3236",
+				"dweb:/ipfs/QmPurAejMsp2Qf2UZX3ED7Gt41ghQunYpQWp2ky5MSTYjZ"
+			]
+		}
+	},
+	"version": 1
+}
