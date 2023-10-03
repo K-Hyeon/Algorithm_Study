@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "boot",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter6/EX6_16.sol": "System"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter6/EX6_16.sol": {
+			"keccak256": "0xdb198acf104ee2bcb670150667855044fcc2fa3f284058bfae3805959dde2dab",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c7b5ca3d198f2336efb18688c96575eee54cd190caaf4c532ed174d6cee0b4a2",
+				"dweb:/ipfs/QmYPDezba66aT2cXXhkcbsPGNfbfDkEEgDvTHJwMbifMq8"
+			]
+		}
+	},
+	"version": 1
+}

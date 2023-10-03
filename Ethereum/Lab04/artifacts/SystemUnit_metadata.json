@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "turnOn",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chaper6/Ex6_4.sol": "SystemUnit"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chaper6/Ex6_4.sol": {
+			"keccak256": "0x05604f0ff5f50678cb9a19fb333e53ef251aa7670b3dd016302b702dd08130fa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://841a5b10405e94701c9314e3e6a41dddc2b7abbe9209ad864886fffc7a8c7f81",
+				"dweb:/ipfs/QmQtLonSebbHY3KicrcTnNSLqu1M5YmBTvkuKdm7o1XvBD"
+			]
+		}
+	},
+	"version": 1
+}
