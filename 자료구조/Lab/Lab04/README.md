@@ -21,4 +21,14 @@
 - TicketAgent : store info related to an agent.
 - TicketCounterSimulation : manages the actual simulation.
 
-
+## Task3. Solve the Maze problem through DFS and BFS using different data structures
+#### A Maze is given as N×N binary matrix of blocks where source block is maze[0][0] and destination block is maze[N-1][N-1].
+- DFS1() : It searches maze using stack from CircularDeque (front end operations)
+- DFS2() : It searches maze using Stack
+- DFS1() : It searches maze using stack from CircularDeque (rear end operation)
+- BFS1() : It searches maze using Queue from CircularDeque
+- BFS2() : It searches maze using Queue from CircularQueue
+<div align="center">
+  <img src="https://github.com/K-Hyeon/Algorithm_Study/assets/63723227/a0867c20-059a-48ca-a184-c4bf6f2d7aba" alt="image">
+  <img src="https://github.com/K-Hyeon/Algorithm_Study/assets/63723227/a8913bcb-b8b7-4425-ad34-3365cedbfdbe" alt="image">
+</div>
