@@ -57,3 +57,4 @@
 - [BAEKJOON7490_0 만들기](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON7490_0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [BAEKJOON9251_LCS](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON9251_LCS.ipynb)
 - [BAEKJOON1012_유기농배추](https://github.com/K-Hyeon/BeakJoon/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.ipynb)
+- [BAEKJOON1325_효율적인 해킹](https://github.com/K-Hyeon/Algorithm_Study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BAEKJOON1325_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9.ipynb)
