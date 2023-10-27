@@ -55,3 +55,4 @@
 - [7490 0 만들기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/7490_0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [7662 이중 우선순위 큐](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.ipynb)
 - [9251 LCS](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/9251_LCS.ipynb)
+- [BAEKJOON10282_해킹](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON10282_%ED%95%B4%ED%82%B9.ipynb)
