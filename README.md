@@ -59,4 +59,5 @@
 - [5585. 거스름돈](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5585_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.ipynb)
 - [1439. 뒤집기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1439_%EB%92%A4%EC%A7%91%EA%B8%B0.ipynb)
 - [2012. 등수 매기기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2012_%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.ipynb)
+- [1092. 배](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1092_%EB%B0%B0.ipynb)
 
