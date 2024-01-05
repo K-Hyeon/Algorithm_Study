@@ -61,4 +61,7 @@
 - [2012. 등수 매기기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2012_%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.ipynb)
 - [1092. 배](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1092_%EB%B0%B0.ipynb)
 - [2212. 센서](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2212_%EC%84%BC%EC%84%9C.ipynb)
+- [1461. 도서관](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1461_%EB%8F%84%EC%84%9C%EA%B4%80.ipynb)
+- [1781. 컵라면](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1781_%EC%BB%B5%EB%9D%BC%EB%A9%B4.ipynb)
+- [9663. N-Queen](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9663_N-Queen.ipynb)
 
