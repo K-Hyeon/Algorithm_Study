@@ -64,4 +64,5 @@
 - [1461. 도서관](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1461_%EB%8F%84%EC%84%9C%EA%B4%80.ipynb)
 - [1781. 컵라면](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1781_%EC%BB%B5%EB%9D%BC%EB%A9%B4.ipynb)
 - [9663. N-Queen](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9663_N-Queen.ipynb)
+- [1759. 암호 만들기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 
