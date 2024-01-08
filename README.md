@@ -66,4 +66,5 @@
 - [9663. N-Queen](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9663_N-Queen.ipynb)
 - [1759. 암호 만들기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [18870. 좌표 압축](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON18870_%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.ipynb)
+- [1431. 시리얼 번호](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1431_%EC%8B%9C%EB%A6%AC%EC%96%BC%20%EB%B2%88%ED%98%B8.ipynb)
 
