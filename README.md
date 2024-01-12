@@ -71,4 +71,5 @@
 - [2170. 선 긋기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2170_%EC%84%A0%20%EA%B8%8B%EA%B8%B0.ipynb)
 - [3273. 두 수의 합](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON3273_%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.ipynb)
 - [2667. 단지번호붙이기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.ipynb)
+- [10026. 적록색약](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.ipynb)
 
