@@ -73,4 +73,5 @@
 - [2667. 단지번호붙이기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.ipynb)
 - [10026. 적록색약](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.ipynb)
 - [1240. 노드사이의 거리](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1240_%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B1%B0%EB%A6%AC.ipynb)
+- [9466. 텀 프로젝트](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9466_%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
 
