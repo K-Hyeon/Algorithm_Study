@@ -79,4 +79,5 @@
 - [5214. 환승](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5214_%ED%99%98%EC%8A%B9.ipynb)
 - [16953. A → B](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON16953_A%20%E2%86%92%20B.ipynb)
 - [14395. 4연산](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14395_4%EC%97%B0%EC%82%B0.ipynb)
+- [14867. 물통](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14867_%EB%AC%BC%ED%86%B5.ipynb)
 
