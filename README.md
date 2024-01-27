@@ -80,4 +80,5 @@
 - [16953. A → B](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON16953_A%20%E2%86%92%20B.ipynb)
 - [14395. 4연산](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14395_4%EC%97%B0%EC%82%B0.ipynb)
 - [14867. 물통](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14867_%EB%AC%BC%ED%86%B5.ipynb)
+- [5567. 결혼식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5567_%EA%B2%B0%ED%98%BC%EC%8B%9D.ipynb)
 
