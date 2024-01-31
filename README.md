@@ -82,4 +82,5 @@
 - [14867. 물통](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14867_%EB%AC%BC%ED%86%B5.ipynb)
 - [5567. 결혼식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5567_%EA%B2%B0%ED%98%BC%EC%8B%9D.ipynb)
 - [2638. 치즈](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2638_%EC%B9%98%EC%A6%88.ipynb)
+- [2812. 크게 만들기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2812_%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 
