@@ -83,4 +83,6 @@
 - [5567. 결혼식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5567_%EA%B2%B0%ED%98%BC%EC%8B%9D.ipynb)
 - [2638. 치즈](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2638_%EC%B9%98%EC%A6%88.ipynb)
 - [2812. 크게 만들기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2812_%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+- [9237. 이장님 초대](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%20%EC%B4%88%EB%8C%80.ipynb)
+- [11501. 주식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON11501_%EC%A3%BC%EC%8B%9D.ipynb)
 
