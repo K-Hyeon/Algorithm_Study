@@ -86,4 +86,5 @@
 - [9237. 이장님 초대](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%20%EC%B4%88%EB%8C%80.ipynb)
 - [11501. 주식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON11501_%EC%A3%BC%EC%8B%9D.ipynb)
 - [1202. 보석 도둑](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1202_%EB%B3%B4%EC%84%9D%20%EB%8F%84%EB%91%91.ipynb)
+- [5052. 전화번호 목록](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5052_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.ipynb)
 
