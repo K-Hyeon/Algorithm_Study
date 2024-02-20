@@ -91,4 +91,5 @@
 - [11404. 플로이드](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.ipynb)
 - [1753. 최단경로](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.ipynb)
 - [1504. 특정한 최단 경로](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.ipynb)
+- [2325. 개코전쟁](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON2325_%EA%B0%9C%EC%BD%94%EC%A0%84%EC%9F%81.ipynb)
 
