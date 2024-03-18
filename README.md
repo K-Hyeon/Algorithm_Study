@@ -88,7 +88,7 @@
 - [5214. 환승](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5214_%ED%99%98%EC%8A%B9.ipynb)
 - [5567. 결혼식](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5567_%EA%B2%B0%ED%98%BC%EC%8B%9D.ipynb)
 - [5585. 거스름돈](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON5585_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.ipynb)
-- [9237. 이장님 초대]{https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%20%EC%B4%88%EB%8C%80.ipynb}
+- [9237. 이장님 초대](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%20%EC%B4%88%EB%8C%80.ipynb)
 - [9466. 텀 프로젝트](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9466_%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
 - [9663. N-Queen](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON9663_N-Queen.ipynb)
 - [20057. 마법사 상어와 토네이도](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON20057_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.ipynb)
