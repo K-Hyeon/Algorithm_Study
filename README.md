@@ -28,4 +28,4 @@
 - [1543. 문서 탐색](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/1543_%EB%AC%B8%EC%84%9C%20%ED%83%90%EC%83%89.ipynb)
 - [1568. 새](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/1568_%EC%83%88.ipynb)
 - [20057. 마법사 상어와 토네이도](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON20057_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.ipynb)
-
+- [17142 연구소 3](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON17142_%EC%97%B0%EA%B5%AC%EC%86%8C%203.ipynb)
