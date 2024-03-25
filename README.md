@@ -94,3 +94,4 @@
 - [20057. 마법사 상어와 토네이도](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON20057_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.ipynb)
 - [17142 연구소 3](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON17142_%EC%97%B0%EA%B5%AC%EC%86%8C%203.ipynb)
 - [17140. 이차원 배열과 연산](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON17140_%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EC%82%B0.ipynb)
+- [14891. 톱니바퀴](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14891_%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.ipynb)
