@@ -97,3 +97,4 @@
 - [14891. 톱니바퀴](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON14891_%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.ipynb)
 - [15685. 드래곤 커브](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON15685_%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C.ipynb)
 - [21610. 마법사 상어와 비바라기](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON21610_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0.ipynb)
+- [20056. 마법사 상어와 파이어볼](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON20056_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC.ipynb)
