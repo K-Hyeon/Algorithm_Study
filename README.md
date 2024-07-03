@@ -4,7 +4,7 @@
 
 ## Forder BAEJOON
 ### BAEJOON Tear: Gold3
-- [1012. 유기농배추](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.ipynb)
+- [1012. 유기농배추](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/BAEKJOON1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.ipynb)
 - [1021. 회전하는큐](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/1021_%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%ED%81%90.ipynb)
 - [1074. Z](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/1074_Z.ipynb)
 - [10773. 제로](https://github.com/K-Hyeon/Algorithm_Study/blob/main/BAEKJOON/10773_%EC%A0%9C%EB%A1%9C.ipynb)
