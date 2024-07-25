@@ -1,4 +1,10 @@
-<h1 align="center">BeakJoon Tear: Gold3</h1>
+<h1 align="center">Computer Vision</h1>
 
-##### 학사 커리큘럼을 바탕으로 풀이한 BaekJoon 문제 솔루션입니다.
+#### 1.	Compute the noisy images by adding Gaussian noise and salt-pepper noise.
+<h1></h1>
 
+##### 2. Implement the following non-linear filters in Python and test them on various images
+##### 1) Median filter 
+##### 2) Diffusion filter 
+##### 3) Non-local mean filter 
+##### 4) Bilateral filter Mean-shift filter
