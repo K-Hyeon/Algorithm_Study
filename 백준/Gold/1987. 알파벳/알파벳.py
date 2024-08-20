@@ -1,27 +1,24 @@
-R, C = map(int, input().split()) # 가로, 세로
+import sys
+input = sys.stdin.readline
+
+R, C = map(int, input().split())
 board = [input() for _ in range(R)]
 
-result = 0
-# 상하좌우
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-
-def Start(x, y):
-    global result
-    q = []
-    q.append((x, y, board[x][y]))
-    
-    while q:
-        x, y, step = q.pop()
-        result = max(result, len(step))
+answer = 0
+dx = [0, 0, -1, 1]
+dy = [-1, 1, 0, 0]
+def dfs(arr, x, y):
+    global answer
+    if answer == 26: return
         
-        # 이동
-        for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
-            
-            if (0 <= nx) and (nx < R) and (0 <= ny) and (ny < C) and (board[nx][ny] not in step):
-                q.append((nx, ny, step + board[nx][ny]))
-    
-Start(0, 0)
-print(result)
+    for i in range(4):
+        nx = x + dx[i]
+        ny = y + dy[i]
+        if (0 <= nx < R) and (0 <= ny < C) and (board[nx][ny] not in arr):
+            dfs(arr + board[nx][ny], nx, ny)
+        else:
+            answer = max(answer, len(arr))
+
+arr = board[0][0]
+dfs(arr, 0, 0)
+print(answer)
