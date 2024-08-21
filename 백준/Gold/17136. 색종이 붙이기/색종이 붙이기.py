@@ -1,5 +1,3 @@
-import sys
-sys.setrecursionlimit(10**6)
 paper = [ list(map(int, input().split())) for _ in range(10) ]
 remain = [5, 5, 5, 5, 5]
 total = 25
